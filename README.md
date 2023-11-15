@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mor Shedi
+# Hi there! 👋 I'm Mohamed Morshedi
 
 Welcome to my GitHub profile. I'm a passionate software developer and tech enthusiast. Currently diving into various projects and exploring new technologies.
 
